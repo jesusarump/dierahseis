@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pieshoodi.alinamattson.com/sitemap.xml
